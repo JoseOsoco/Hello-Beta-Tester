@@ -1,3 +1,3 @@
 # hellow-world
-First repository.
+GitHub integration Test project.
 
