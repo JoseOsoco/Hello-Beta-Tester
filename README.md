@@ -1,3 +1,3 @@
 # hellow-world
-GitHub integration Test project.
+GitHub integration Test project
 
