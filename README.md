@@ -1,4 +1,4 @@
-# hellow-Beta-Tester
+# hellow-Beta-Testers
 
 GitHub integration Test project.
 
