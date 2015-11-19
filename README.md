@@ -4,4 +4,3 @@ Hello Beta Testers!
 
 GitHub integration Test project.
 
-
